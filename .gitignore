@@ -1,0 +1,24 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+frontend/dist/
+backend/dist/
+blockchain/artifacts/
+blockchain/cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local development files
+.DS_Store
+Thumbs.db
+.vscode/
