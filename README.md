@@ -129,8 +129,6 @@ Public deployment and production blockchain configuration are planned as subsequ
 
 **Yashashree Chavan**
 
-B.E. Computer Science Engineering
-Dnyanshree Institute of Engineering & Technology
-Graduation Year: 2026
-
-**Project:** CampusChain – Blockchain-Based Student Attendance Management System
+**Degree:** B.E. Computer Science Engineering  
+**College:** Dnyanshree Institute of Engineering & Technology  
+**Graduation Year:** 2027
