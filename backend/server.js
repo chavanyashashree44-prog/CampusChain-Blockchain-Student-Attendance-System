@@ -13,8 +13,13 @@ const adminRoutes = require('./app/routes/adminRoutes')
 const app = express()
 
 // Middleware
+const allowedOrigins = [
+  'http://localhost:5173',
+  'https://campus-chain-blockchain-student-att-phi.vercel.app',
+]
+
 app.use(cors({
-  origin: process.env.CLIENT_URL || 'http://localhost:5173',
+  origin: allowedOrigins,
   credentials: true,
 }))
 
